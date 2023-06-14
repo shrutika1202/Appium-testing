@@ -7,6 +7,7 @@ It is a cross-platform mobile automation tool, which means that it allows the sa
 Multiple devices can be easily tested by Appium in parallel.
 
 Download Appium inspector : https://github.com/appium/appium-inspector
+
 Start the Appium server and then run your app.
 
 References:
